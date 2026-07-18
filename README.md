@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="yorha_banner.jpg" alt="YoRHa Tactical Data Link" />
+  <img src="yorha_logo.png" alt="YoRHa Logo" width="150" />
+  <br>
   <h1>[ YoRHa // Tactical Data Link ]</h1>
   <p><i>Glory to mankind.</i></p>
 </div>
