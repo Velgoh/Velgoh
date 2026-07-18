@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="2b_custom.gif" alt="2B" width="100%" />
+  <img src="https://raw.githubusercontent.com/Velgoh/Velgoh/master/2b_custom.gif" alt="2B" width="100%" />
   
   <br>
   <br>
